@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f336fb3.css",
+    "main.js": "/static/js/main.09fb6bac.js",
+    "static/media/steppingStonesLogo.jpeg": "/static/media/steppingStonesLogo.35e2e9067a89ad63bdb8.jpeg",
+    "static/media/infant.jpeg": "/static/media/infant.73a3649d1d9f6954a136.jpeg",
+    "static/media/pre45.jpeg": "/static/media/pre45.b7578424b9a3ca5cbce9.jpeg",
+    "static/media/toddler1.jpeg": "/static/media/toddler1.731f37cbb5f9c9eaf38b.jpeg",
+    "static/media/schoolkids.jpeg": "/static/media/schoolkids.3370ce5b4536409baf02.jpeg",
+    "static/media/pre3.jpeg": "/static/media/pre3.edaba7b822d97b71463c.jpeg",
+    "static/media/toddler2.jpeg": "/static/media/toddler2.bccf3b13049bf16c64e7.jpeg",
+    "static/media/polkaDot.png": "/static/media/polkaDot.d3b7ba42776fb0e62d3a.png",
+    "static/media/experienced.png": "/static/media/experienced.b2eddb9a1c046b07edfe.png",
+    "static/media/fun.png": "/static/media/fun.a3608369006288087506.png",
+    "static/media/smart.png": "/static/media/smart.369ab632add15f2012d2.png",
+    "index.html": "/index.html",
+    "main.0f336fb3.css.map": "/static/css/main.0f336fb3.css.map",
+    "main.09fb6bac.js.map": "/static/js/main.09fb6bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f336fb3.css",
+    "static/js/main.09fb6bac.js"
+  ]
+}
